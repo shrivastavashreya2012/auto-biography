@@ -1,0 +1,47 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.body{
+  background-color: #1a3f63;
+  box-shadow: 20px solid gray;
+}
+
+.container{
+  font-size: 5px;
+  font-style:pink;
+  font-weight: italics ;
+}
+
+.pouch{
+  font-size: 5px;
+  font-style:pink;
+  font-weight: italics ;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 30px;
+  color:royalblue;
+}
+
+.h1 {
+  text-decoration:none;
+}
+
+.main-container {
+  width: 1020px;
+  margin:0 auto;
+  background: #efefef;
+  box-shadow: 0px 0px 15px 4px light grey (0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.upper-content {
+  text-align: center;
+}
+
+.profile-img {
+  box-shadow: sans-serif;
+}
