@@ -45,3 +45,32 @@ h1 {
 .profile-img {
   box-shadow: sans-serif;
 }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 30%;
+}
+
+td,
+th {
+  border: 1px solid #000000;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.back-link {
+  background-color: rgb(43, 70, 226);
+  padding: 10px 30px;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+}
+.back-link:hover {
+  background-color: rgb(146, 112, 240);
+  color: black;
+}
